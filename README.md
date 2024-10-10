@@ -1,3 +1,6 @@
+Project Description:
+I developed a responsive quiz platform where users can take quizzes, dynamically fetch questions, and view their scores in real-time. By integrating API calls, the platform enhances the user experience with real-time quiz data retrieval. The project utilizes HTML, CSS, and JavaScript, with ReactJS components and state management to build an interactive and user-friendly interface.
+
 # To use the Deployment
 
 Available at https://inovatice-ideas.github.io/Quizzical-App/
